@@ -2,7 +2,7 @@
 Natural language processing project, which classifies disaster related tweets as informative or non-informative. This project was done as a part of the course CS 230: Deep Learning at Stanford University by Lovisa Byman, Karen Garcia Mesa and Matan Lamdan.
 
 
-The dataset used in this project was the CrisisLexT26 [1]. The classification was done using three different deep learning methods; LSTM with Word2Vec embeddings, BERT and XLNet, and the results were compared to each other and to a baseline model which used keywords to classify the tweets. The keywords used in the baseline approach was the once specified by [2].
+The dataset used in this project was the CrisisLexT26 [1]. The classification was done using three different deep learning methods; LSTM with Word2Vec embeddings, BERT and XLNet, and the results were compared to each other and to a baseline model which used keywords to classify the tweets. The keywords used in the baseline approach was the CrisisLex Lexicon [2].
 
 
 
